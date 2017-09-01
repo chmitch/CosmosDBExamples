@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{1C68222E-3898-46ED-B995-585B6AF9E545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBWrapper", "CosmosDBWrapper\CosmosDBWrapper.csproj", "{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Debug|x64.ActiveCfg = Debug|x64
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Debug|x64.Build.0 = Debug|x64
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Release|x64.ActiveCfg = Release|x64
+		{1C68222E-3898-46ED-B995-585B6AF9E545}.Release|x64.Build.0 = Release|x64
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Debug|x64.ActiveCfg = Debug|x64
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Debug|x64.Build.0 = Debug|x64
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Release|x64.ActiveCfg = Release|x64
+		{78B64E22-FCC9-4FC7-ACFA-63CB1E8B892B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
